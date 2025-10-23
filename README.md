@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **thonchhavalit@gmail.com**
 
-<h3 align="left">Connect with me:  https://t.me/Thon_Chhavalit</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
