@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thon Chhavalit</h1>
+<img width="807" height="1093" alt="image" src="https://github.com/user-attachments/assets/f3efec96-ff14-433f-bbaf-38351a272398" /><h1 align="center">Hi 👋, I'm Thon Chhavalit</h1>
 <h3 align="center">Passionate with Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://t.me/Thon_Chhavalit
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
