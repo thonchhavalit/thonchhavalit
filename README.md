@@ -7,7 +7,7 @@
 ## 🌱 Currently Exploring
 
 - 🚀 **Spring Boot Microservices**
-- ⚡ **Next.js 14 & Modern React**
+- ⚡ **Next.js 21 & Modern React**
 - ☁️ **DevOps & Cloud Automation**
 
 ---
